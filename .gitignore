@@ -1,0 +1,7 @@
+aidisclosure.tx
+
+
+archive/
+data/*.csv
+.ipynb_checkpoints/
+.idea/
