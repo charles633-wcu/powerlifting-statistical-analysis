@@ -125,8 +125,4 @@ West Chester University
 
 ---
 
-## Notes
-
-This project was completed as part of a data science/statistics coursework assignment and is intended to demonstrate applied statistical reasoning, reproducible analysis, and professional data communication.
-
 
