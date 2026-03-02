@@ -5,8 +5,6 @@
 
 This project analyzes competitive powerlifting performance using data from the **Open Powerlifting Database**. The goal is to understand how **bodyweight relates to strength performance**, how performance differs **across sexes and weight classes**, and how well **bodyweight predicts performance** in each of the three competition lifts: squat, bench press, and deadlift.
 
-Rather than focusing on prediction, this analysis emphasizes **statistical inference**, effect sizes, and interpretability using classical statistical techniques commonly taught in data science and applied statistics courses.
-
 ---
 
 ## Dataset
